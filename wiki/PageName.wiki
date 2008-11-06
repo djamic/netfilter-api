@@ -1,9 +1,6 @@
-#summary One-sentence summary of this page.
-Compile error
-= Introduction =
-Compile error in  /usr/include/linux/netfilter_ipv4/ip_tables.h
+#summary Compile error
 
-= Details =
+= Compile error in  /usr/include/linux/netfilter_ipv4/ip_tables.h =
 
 In file included from gipt/include/libiptc/libiptc.h:7,
                  from gipt/match.h:9,
