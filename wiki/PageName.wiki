@@ -15,6 +15,7 @@ http://osdir.com/ml/security.firewalls.netfilter.devel/2002-09/msg00082.html —
 
 
 change /usr/include/linux/netfilter_ipv4/ip_tables.h
+{{{
 //at the begin
 #ifdef __cplusplus
 extern "C" {
@@ -35,3 +36,4 @@ ipt_get_target(struct ipt_entry *e)
 #ifdef __cplusplus
 };
 #endif
+}}}
